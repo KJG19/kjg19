@@ -1,7 +1,5 @@
 ## Hello there 👋 I'm Kyle Guenter
-<img src="https://github.com/KJG19/KJG19/blob/main/cover.png" width="200" alt="Calgary">
-
-## 💫 About Me:
+<img src="https://github.com/KJG19/KJG19/blob/main/cover.png" alt="Calgary">
 
 <!--
 **KJG19/kjg19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
