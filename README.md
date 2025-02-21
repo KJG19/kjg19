@@ -11,7 +11,7 @@
 🛠️ Enjoy creating side projects to increase my skills and continuously learn  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kyleguenter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kyleguenter19@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-guenter-ab53b8299/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kyleguenter19@gmail.com)  
 
 # 💻 Tech Stack:
 
