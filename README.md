@@ -8,7 +8,6 @@
 # 💫 About Me:
 📈 Software Developer seeking growth in tech  
 🎓 Diploma in Software Development - Southern Alberta Institute of Technology  
-🏫 Pursuing a Computer Science Degree - University of Lethbridge  
 🛠️ Enjoy creating side projects to increase my skills and continuously learn  
 
 ## 🌐 Socials:
